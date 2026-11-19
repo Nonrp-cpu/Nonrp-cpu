@@ -31,7 +31,7 @@ No heavy frameworks where they aren't needed: a one-page site loads faster and i
 |---|---|---|
 | [**Olesa-lash**](https://github.com/Nonrp-cpu/Olesa-lash) · [live demo](https://nonrp-cpu.github.io/Olesa-lash/) | Warm, minimalist landing page for a lash artist: services, price tabs, gallery with lightbox, FAQ, booking form, mobile menu | HTML, CSS, JS |
 | [**Boost**](https://github.com/Nonrp-cpu/Boost) | Storefront for a sportswear / streetwear shop: product catalog with stock status, light and dark themes, SVG illustrations drawn in code. Portfolio case, demo data only | HTML, CSS, JS |
-| [**FlowerShop**](https://github.com/Nonrp-cpu/FlowerShop) | Flower shop website | HTML, CSS, JS |
+| [**FlowerShop**](https://github.com/Nonrp-cpu/FlowerShop) · [live demo](https://nonrp-cpu.github.io/FlowerShop/) | Flower shop website | HTML, CSS, JS |
 
 ## 🤝 How I work
 
@@ -43,8 +43,8 @@ No heavy frameworks where they aren't needed: a one-page site loads faster and i
 ## 📫 Let's work together
 
 <!-- Replace the placeholders below with your real contacts -->
-- Telegram: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
-- Email: your.email@example.com
+- Telegram: [@Shalom943](https://t.me/Shalom943)
+- Email: les.n3lls@mail.ru
 
 <p align="center">
   <i>CODE WRITING, SLEEP, REPEAT</i>
