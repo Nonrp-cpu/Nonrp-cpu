@@ -63,8 +63,8 @@ I pick the tool for the job: plain HTML, CSS and JavaScript for simple one-page 
 ## 📫 Let's work together
 
 <!-- Replace the placeholders below with your real contacts -->
-- Telegram: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
-- Email: your.email@example.com
+- Telegram: [@Shalom943](https://t.me/Shalom943)
+- Email: les.n3lls@mail.ru
 
 <p align="center">
   <i>CODE WRITING, SLEEP, REPEAT</i>
